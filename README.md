@@ -20,10 +20,6 @@
 - 🌱 Learning: operator system, network programming
 - arch linux user
 
-![Serein's GitHub stats](https://github-readme-stats.vercel.app/api?username=Serein207&show_icons=true&theme=transparent)
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Serein207)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Organization :telescope:
 
 - [NJUPT SAST](https://github.com/NJUPT-SAST)
