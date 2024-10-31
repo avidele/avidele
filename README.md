@@ -15,11 +15,3 @@
   </a>
 </div>
 
-- :smiley: Who am I: a member of NJUPT SAST and the lecturer of the game group of 2023
-- 👀 Most used language: C++ and Python
-- 🌱 Learning: operator system, network programming
-- arch linux user
-
-### Organization :telescope:
-
-- [NJUPT SAST](https://github.com/NJUPT-SAST)
